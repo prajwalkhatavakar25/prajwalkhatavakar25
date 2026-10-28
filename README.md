@@ -37,29 +37,52 @@ I like exploring ideas beyond the classroom, experimenting with new tools, and t
 
 <div align="center">
 
-### LANGUAGES
+### 💻 LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
 
-### AI & MACHINE LEARNING
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+### 📊 DATA SCIENCE & MACHINE LEARNING
 
-### DEVELOPMENT TOOLS
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
+
+<br/><br/>
+
+### 🧠 DEEP LEARNING
+
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br/><br/>
+
+### 🤖 LLM ENGINEERING
+
+<img src="https://img.shields.io/badge/Hugging%20Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Groq-Learning-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+
+<br/><br/>
+
+### 🛠️ DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-### CURRENT INTERESTS
+<br/><br/>
 
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20ENGINEERING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FOCUS-LLM%20ENGINEERING-8B0000?style=for-the-badge" />
 
-<br/>
+<br/><br/>
 
 <sub>Learning by building. Improving by experimenting.</sub>
 
 </div>
+
 
 
 ---
