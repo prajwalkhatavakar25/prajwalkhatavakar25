@@ -37,23 +37,30 @@ I like exploring ideas beyond the classroom, experimenting with new tools, and t
 
 <div align="center">
 
-**Languages**
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
 
-<br/><br/>
+### AI & MACHINE LEARNING
 
-**Libraries, Frameworks & Tools**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,vscode&theme=dark" />
+### DEVELOPMENT TOOLS
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-<img src="https://img.shields.io/badge/INTEREST-ARTIFICIAL%20INTELLIGENCE-8B0000?style=flat-square" />
-<img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-8B0000?style=flat-square" />
-<img src="https://img.shields.io/badge/INTEREST-LLM%20ENGINEERING-8B0000?style=flat-square" />
+### CURRENT INTERESTS
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20ENGINEERING-8B0000?style=for-the-badge" />
+
+<br/>
+
+<sub>Learning by building. Improving by experimenting.</sub>
 
 </div>
+
 
 ---
 
