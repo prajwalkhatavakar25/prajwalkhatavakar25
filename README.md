@@ -134,20 +134,19 @@ The goal is to investigate how detection, layered defenses, and understandable s
 <div align="center">
 
 <a href="https://github.com/prajwalkhatavakar25">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-161616?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-161616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
 </a>
 <a href="https://www.linkedin.com/in/prajwal-khatavakar-a36310378">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=prajwalkhatavakar25&style=flat-square&color=8B0000&label=PROFILE+VISITS" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:990000,50:400000,100:090909" width="100%" />
 
 <sub>Building quietly. Improving constantly.</sub>
 
+<br/><br/>
+
+<sub>Thanks for stopping by.</sub>
+
 </div>
+
