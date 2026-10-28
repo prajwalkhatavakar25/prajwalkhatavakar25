@@ -117,15 +117,12 @@ The goal is to investigate how detection, layered defenses, and understandable s
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=prajwalkhatavakar25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4040&icon_color=FF4040&text_color=E6EDF3&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=prajwalkhatavakar25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4040&icon_color=FF4040&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics" />
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkhatavakar25&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4040&text_color=E6EDF3&langs_count=8" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajwalkhatavakar25&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkhatavakar25&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4040&text_color=E6EDF3&langs_count=8" alt="Most-used programming languages" />
 
 </div>
+
 
 ---
 
