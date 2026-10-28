@@ -1,143 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:450000,100:990000&text=THE%20DARK%20ARCHITECT&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Building%20Intelligence%20%7C%20Breaking%20Assumptions&descAlignY=58&descSize=15&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:090909,50:400000,100:990000&text=PRAJWAL%20KHATAVAKAR&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Curious%20Mind.%20Experimental%20Code.%20Real%20Ideas.&descAlignY=58&descSize=14&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=FF3333&center=true&vCenter=true&width=650&lines=Initializing+Developer+Profile...;AI+%7C+Cybersecurity+%7C+Machine+Learning;Building+intelligent+systems+that+matter;Curiosity+is+my+weapon.+Code+is+my+language." alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/prajwalkhatavakar25">
-<img src="https://img.shields.io/badge/IDENTITY-PRAJWAL%20KHATAVAKAR-8B0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-111111?style=for-the-badge&logo=statuspage&logoColor=red" />
-<img src="https://img.shields.io/badge/MODE-UNLIMITED-111111?style=for-the-badge&logo=probot&logoColor=red" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=900&color=FF4040&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Exploring+Artificial+Intelligence;Building+AI+Agents+%26+Intelligent+Systems;Learning+Something+New+Every+Day" alt="Typing SVG" />
 
 <br/><br/>
 
-`> ACCESS GRANTED`
+<a href="https://github.com/prajwalkhatavakar25">
+<img src="https://img.shields.io/badge/PROFILE-OPEN_SOURCE-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-161616?style=for-the-badge&logo=probot&logoColor=FF4040" />
+<img src="https://img.shields.io/badge/ALWAYS-LEARNING-161616?style=for-the-badge&logo=bookstack&logoColor=FF4040" />
 
 </div>
 
 ---
 
-## `01 // WHOAMI`
+## `01 / A LITTLE ABOUT ME`
 
-```bash
-┌──(prajwal㉿dark-architect)-[~]
-└─$ whoami
+Hey, I'm **Prajwal** — a computer science student interested in building things that make technology more useful, intelligent, and interesting.
 
-  Developer | AI Enthusiast | Security Researcher
+I like exploring ideas beyond the classroom, experimenting with new tools, and turning concepts into working projects.
 
-└─$ cat mission.txt
+* Exploring large language models and AI agents.
+* Building projects with Python and machine learning.
+* Interested in explainable AI and reliable intelligent systems.
+* Learning by experimenting, debugging, and building from scratch.
 
-  Build intelligent systems.
-  Explore the unknown.
-  Understand how AI can fail.
-  Engineer systems that are harder to break.
-```
-
-I'm Prajwal Khatavakar, a computer science student interested in the intersection of **artificial intelligence, machine learning, and cybersecurity**.
-
-I enjoy experimenting with ideas, building practical projects, and exploring the engineering behind intelligent systems.
-
-* `//` Exploring LLMs, AI agents, and intelligent automation.
-* `//` Interested in prompt injection, LLM security, and explainable AI.
-* `//` Learning by building, experimenting, and breaking things in controlled environments.
-* `//` Turning ambitious ideas into working prototypes.
-
-**Current philosophy:** Don't just use the technology. Understand how it works.
+**Currently:** Turning ideas into projects, one experiment at a time.
 
 ---
 
-## `02 // THE ARSENAL`
+## `02 / MY TOOLKIT`
 
 <div align="center">
 
-### LANGUAGES
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css&theme=dark" />
 
-### AI / DATA / DEVELOPMENT
+<br/><br/>
+
+**Libraries, Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8B0000?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-LLM%20SECURITY-8B0000?style=flat-square" />
-<img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/INTEREST-ARTIFICIAL%20INTELLIGENCE-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/INTEREST-MACHINE%20LEARNING-8B0000?style=flat-square" />
+<img src="https://img.shields.io/badge/INTEREST-LLM%20ENGINEERING-8B0000?style=flat-square" />
 
 </div>
 
 ---
 
-## `03 // PROJECTS UNDER DEVELOPMENT`
+## `03 / THINGS I'M BUILDING`
 
-> The following are projects I'm working on or exploring. Their status should reflect their actual implementation.
+### `01. Vylkros AI`
 
-### `01. VYLKROS AI`
+**A Personal AI Assistant**
 
-**Personal AI Agent**
+An experimental AI assistant designed to bring together conversational AI, memory, voice interaction, tool execution, and intelligent model routing.
 
-An experimental personal AI assistant exploring conversational intelligence, tool execution, memory, voice interaction, and intelligent model routing.
+Exploring how different components can work together to create a more capable personal assistant.
 
-`Python` `LLMs` `Groq` `AI Agents`
-
-### `02. LLMSHIELD`
-
-**Explainable LLM Security Framework**
-
-A research project exploring multi-layer defense against prompt injection, jailbreak attempts, and adversarial manipulation of large language models.
-
-`LLM Security` `Prompt Injection` `Explainable AI`
-
-### `03. DISASTERNET`
-
-**AI-Powered Disaster Risk Monitoring**
-
-A disaster-response concept exploring landslide risk classification, environmental data, early warnings, and resilient communication during connectivity failures.
-
-`Machine Learning` `Python` `Disaster Management`
+`Python` · `LLMs` · `Groq` · `AI Agents`
 
 ---
 
-## `04 // GITHUB TELEMETRY`
+### `02. LLMShield`
+
+**An Explainable Framework for LLM Safety**
+
+A research project exploring a multi-layer approach to identifying prompt injection attacks and improving the reliability of large language model applications.
+
+The goal is to investigate how detection, layered defenses, and understandable security decisions can work together.
+
+`LLMs` · `Prompt Injection` · `Explainable AI`
+
+---
+
+## `04 / GITHUB STATISTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwalkhatavakar25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=E6EDF3&rank_icon=github" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=prajwalkhatavakar25&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4040&icon_color=FF4040&text_color=E6EDF3&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkhatavakar25&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=E6EDF3" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkhatavakar25&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4040&text_color=E6EDF3&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=prajwalkhatavakar25&theme=dark&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" width="75%" />
+<img src="https://github-profile-trophy.vercel.app/?username=prajwalkhatavakar25&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%" />
 
 </div>
 
 ---
 
-## `05 // CONNECT TO THE ARCHITECT`
+## `05 / FIND ME ELSEWHERE`
 
 <div align="center">
 
 <a href="https://github.com/prajwalkhatavakar25">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-161616?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/prajwal-khatavakar-a36310378">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:990000,50:450000,100:000000" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=prajwalkhatavakar25&style=flat-square&color=8B0000&label=PROFILE+VISITS" />
 
-<sub>「 The system evolves. The architect adapts. 」</sub>
+<br/><br/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:990000,50:400000,100:090909" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=prajwalkhatavakar25&style=flat-square&color=8B0000&label=PROFILE+SIGNALS" />
+<sub>Building quietly. Improving constantly.</sub>
 
 </div>
