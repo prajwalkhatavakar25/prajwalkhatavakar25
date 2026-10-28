@@ -131,10 +131,13 @@ The goal is to investigate how detection, layered defenses, and understandable s
 <div align="center">
 
 <a href="https://github.com/prajwalkhatavakar25">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-161616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
+<img src="https://img.shields.io/badge/GitHub-EXPLORE%20MY%20PROJECTS-161616?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/prajwal-khatavakar-a36310378">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn profile" />
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT%20WITH%20ME-161616?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/madebyprj/">
+<img src="https://img.shields.io/badge/Instagram-@MADEBYPRJ-161616?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram @madebyprj" />
 </a>
 
 <br/><br/>
@@ -146,4 +149,5 @@ The goal is to investigate how detection, layered defenses, and understandable s
 <sub>Thanks for stopping by.</sub>
 
 </div>
+
 
