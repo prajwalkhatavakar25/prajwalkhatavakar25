@@ -45,25 +45,24 @@ I like exploring ideas beyond the classroom, experimenting with new tools, and t
 
 ### 📊 DATA SCIENCE & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 <br/><br/>
 
 ### 🧠 DEEP LEARNING
 
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow%20%7C%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <br/><br/>
 
 ### 🤖 LLM ENGINEERING
 
-<img src="https://img.shields.io/badge/Hugging%20Face-Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-
-<img src="https://img.shields.io/badge/Groq-Learning-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face%20%7C%20Exploring-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Groq%20%7C%20Learning-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 
 <br/><br/>
 
@@ -73,15 +72,16 @@ I like exploring ideas beyond the classroom, experimenting with new tools, and t
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-MACHINE%20LEARNING-8B0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-LLM%20ENGINEERING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20ENGINEERING-8B0000?style=for-the-badge" />
 
 <br/><br/>
 
 <sub>Learning by building. Improving by experimenting.</sub>
 
 </div>
+
 
 
 
