@@ -117,7 +117,11 @@ The goal is to investigate how detection, layered defenses, and understandable s
 
 <div align="center">
 
-  <img src="https://ghstats.dev/api/card?username=prajwalkhatavakar25&theme=dark" width="48%" alt="GitHub Statistics" />
+  <img
+    src="https://ghstats.dev/api/card?username=prajwalkhatavakar25&bg=0D1117&text=E6EDF3&title_color=FF4040&icon_color=FF4040&border_color=30363D&hide=streak,week,trend,avg,active_day,grade,issues,followers&show_ring=false&hide_border=false&size=compact&custom_title=GITHUB%20ACTIVITY&border_radius=6"
+    width="65%"
+    alt="GitHub Activity"
+  />
 
 </div>
 
