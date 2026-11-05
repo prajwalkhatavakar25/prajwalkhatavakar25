@@ -117,9 +117,7 @@ The goal is to investigate how detection, layered defenses, and understandable s
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalkhatavakar25&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkhatavakar25&layout=compact&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://ghstats.dev/api/card?username=prajwalkhatavakar25&theme=dark" width="48%" alt="GitHub Statistics" />
 
 </div>
 
